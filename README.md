@@ -1,9 +1,10 @@
-#technologie utilisé
+# technologie utilisé
+
 1-	creation d'un compte sur Bluemix (pour deployé le projet) et une base de donnée MySql sur bluemix aussi.
 	le lien : http://tp-convolutedly-padnag.eu-gb.mybluemix.net
 2-	configuration de cloud foundry
 3-	utilisation de l'extention chrome nommée Advanced Rest Client
-
+# pour le projet "tp">
 # l'ensemble des fonctionalités
 touste les requetes ont été tester en utilisant l'extention chrome nommée Advanced Rest Client
 1-
@@ -46,4 +47,15 @@ touste les requetes ont été tester en utilisant l'extention chrome nommée Adv
 	2- la methode : delete
 
 /**********************************************************************************************************************************************/
+
+# pour le projet "tpAvecPersistance"
+
+on a mis en place la base de donnée, mais on deployant l'application, on a eu une erreur lors de son execution sur bluemix.
+
+conclusion:
+
+-on a décider de deployé le projet "tp" au moins qu'il repond à l'ensemble des fonctionalités.
+-on a fournie le projet "tpAvecPersistance" pour voir notre architecture d'utilisation de la base de donné. 
+
+
 
