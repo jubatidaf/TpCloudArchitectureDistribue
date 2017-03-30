@@ -35,13 +35,13 @@ touste les requetes ont été tester en utilisant l'extention chrome nommée Adv
 	2- la methode : delete
 
 6. 	rechercher un animal par son nom
- 	exemple d'utilisation : http://tp-convolutedly-padnag.eu-gb.mybluemix.net/zoo-manager/animals/find/byName/Canine
+ 	exemple d'utilisation : http://tp-convolutedly-padnag.eu-gb.mybluemix.net/zoo-manager/find/byName/Canine
 
 7. 	rechercher un animal par sa position
-	exemple d'utilisation : http://tp-convolutedly-padnag.eu-gb.mybluemix.net/zoo-manager/animals/find/at/{latitude}/{longitude}
+	exemple d'utilisation : http://tp-convolutedly-padnag.eu-gb.mybluemix.net/zoo-manager/find/at/{latitude}/{longitude}
 
 8. 	rechercher les animaux proche d'une position
-	exemple d'utilisation : http://tp-convolutedly-padnag.eu-gb.mybluemix.net/zoo-manager/animals/find/near/{latitude}/{longitude}
+	exemple d'utilisation : http://tp-convolutedly-padnag.eu-gb.mybluemix.net/zoo-manager/find/near/{latitude}/{longitude}
 9. suppresion d'un animal par ville
 	1- l'url : http://tp-convolutedly-padnag.eu-gb.mybluemix.net/zoo-manager/animals/remove/<ville>
 	2- la methode : delete
